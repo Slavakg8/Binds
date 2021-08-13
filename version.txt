@@ -1,0 +1,1 @@
+1.0.1;https://github.com/Slavakg8/Binds/raw/main/updater.exe
